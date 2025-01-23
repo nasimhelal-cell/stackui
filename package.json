@@ -1,0 +1,16 @@
+{
+  "name": "stackui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Vegetarian friendly UI for",
+  "type": "module",
+  "bin": {
+    "stackui add component": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
